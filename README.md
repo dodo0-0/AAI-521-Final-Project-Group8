@@ -50,6 +50,6 @@ cd RestorAI
 
 ### Credits
 University of San Diego – AAI-521 (Fall 2025)  
-**[Your Full Name]** & **[Your Teammate’s Full Name]**  
+**Gaurav SS** & **Nitendra Tiwari**  
 
 MIT License – feel free to fork, star, and reuse!
